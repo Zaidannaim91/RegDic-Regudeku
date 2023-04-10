@@ -1,0 +1,49 @@
+{
+   "title":"[RegDic] Animal-Eared Fortune Teller",
+   "description":"",
+   "author":"RegDic / Regudeku",
+   "artist":"RegDic / Regudeku",
+   "cover":"https://i.imgur.com/szyYTxG.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PkZZKeD"
+         },
+         "last_updated":1624606143,
+         "title":"Animal-Eared Fortune Teller",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/35dChkK"
+         },
+         "last_updated":1624606143,
+         "title":"Animal-Eared Fortune Teller ~Dancer Attack~",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/T4INFZa"
+         },
+         "last_updated":1624606143,
+         "title":"Animal-Eared Fortune Teller ~Big Sis's Plot~",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cqCaMn1"
+         },
+         "last_updated":1624606143,
+         "title":"Animal-Eared Fortune Teller ~A New Astray Soul~",
+         "volume":"4"
+      },
+      "5":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xT6fHuI"
+         },
+         "last_updated":1624606143,
+         "title":"Animal-Eared Fortune Teller ~Constricting Doctor~",
+         "volume":"5"
+      }
+   }
+}
